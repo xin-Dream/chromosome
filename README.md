@@ -12,17 +12,20 @@
 
 ## 1. 直接使用
 
-windows : 运行chromosome.exe
+windows : 运行01-program/dist/chromosome.exe
 
 ubuntu: 
 
 ```bash
-./dist/main
+./ubuntu/main
+# 有个小问题没改，ubuntu的长链大小不能跟随设置label长度变化，不改label长度的话可以正常用
 ```
 
 ## 2. 编译使用
 
 1. Dependencies：
+
+   python==3.6.13
 
    ```bash
    pip install -r requirements.txt

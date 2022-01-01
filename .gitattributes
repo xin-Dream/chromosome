@@ -1,2 +1,1 @@
-01-program/chromosome.exe filter=lfs diff=lfs merge=lfs -text
-01-program/dist/main filter=lfs diff=lfs merge=lfs -text
+01-program/ubuntu/main filter=lfs diff=lfs merge=lfs -text
