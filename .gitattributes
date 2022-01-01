@@ -1,0 +1,2 @@
+chromosome.exe filter=lfs diff=lfs merge=lfs -text
+dist/main filter=lfs diff=lfs merge=lfs -text
