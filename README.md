@@ -4,9 +4,9 @@
 
 给朋友写的用于标注染色体中DNA位置的画图软件
 
-![01-software](../../images/README/01-software.png)
+![01-software](02-images/01-software.png)
 
-![02-DNA](../../images/README/02-DNA.png)
+![02-DNA](02-images/02-DNA.png)
 
 # 2. 安装与使用
 
